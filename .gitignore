@@ -1,0 +1,21 @@
+# Visual Studio / IDE temporary files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+.userosscache
+.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache/options directories
+.vs/
+*.userosscache
+
+# NuGet Packages (if restored locally)
+project.lock.json
+project.fragment.lock.json
+artifacts/
